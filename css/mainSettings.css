@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v12_64 {
+.v12_68 {
   width: 375px;
   height: 812px;
   background: rgba(255,255,255,1);
@@ -14,17 +14,17 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v12_69 {
-  width: 366px;
-  height: 244px;
-  background: url("../images/v12_69.png");
+.v12_71 {
+  width: 359px;
+  height: 270px;
+  background: url("../images/v12_71.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 284px;
-  left: 9px;
+  top: 271px;
+  left: 16px;
   overflow: hidden;
 }
 .name {

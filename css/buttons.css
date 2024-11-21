@@ -1,0 +1,43 @@
+ .container {
+     display: flex;
+     width: 375px;
+     /* Fixed width */
+     justify-content: space-between;
+     /* Space between squares */
+ }
+
+ .square {
+     width: 93.75px;
+     /* Fixed width for each square */
+     height: 93.75px;
+     /* Fixed height */
+     text-align: center;
+     /* Center text */
+     line-height: 93.75px;
+     /* Center text vertically */
+     color: white;
+     text-decoration: none;
+     /* Remove underline from links */
+     border-radius: 8px;
+     /* Rounded corners */
+ }
+
+ .square1 {
+     background-color: #FF5733;
+     /* Red */
+ }
+
+ .square2 {
+     background-color: #33FF57;
+     /* Green */
+ }
+
+ .square3 {
+     background-color: #3357FF;
+     /* Blue */
+ }
+
+ .square4 {
+     background-color: #F3FF33;
+     /* Yellow */
+ }

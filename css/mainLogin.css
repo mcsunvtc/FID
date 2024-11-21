@@ -1,36 +1,35 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   font-size: 14px;
 }
-
-.v12_68 {
-  width: 375px;
+.v437_123 {
+  width: 387px;
   height: 812px;
-  background: rgba(255, 255, 255, 1);
+  background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
-
-.v12_71 {
-  width: 359px;
-  height: 270px;
-  background: url("../images/v12_71_settings.png");
+.v437_124 {
+  width: 375px;
+  height: 286px;
+  background: url("../images/v437_124_login.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 271px;
-  left: 16px;
+  top: 176px;
+  left: 0px;
   overflow: hidden;
 }
-
+.name {
+  color: #fff;
+}
 .name {
   color: #fff;
 }
